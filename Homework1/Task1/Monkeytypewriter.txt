@@ -1,0 +1,58 @@
+generation   best pharse   maximum fitness   average fitness   diversity
+
+1        thuAvQorTqpdLCjwxD   0.166667   0.018611   0.148056   
+2        hNQieXMfbTYyNtdPbx   0.166667   0.068056   0.098611   
+3        mHQBeCIEbZZiutt Je   0.222222   0.088889   0.133333   
+4        OHNoegmlmcol tqTIe   0.277778   0.119167   0.158611   
+5        LW ge MOIGVlutp xe   0.333333   0.143056   0.190278   
+6        ha CeCowTsGH ta Xt   0.333333   0.169167   0.164167   
+7        tKNUe EruXpiDVj bM   0.333333   0.186667   0.146667   
+8        LpDoeToZuXoY to Me   0.444444   0.217500   0.226944   
+9        GN genir souRto Me   0.500000   0.240556   0.259444   
+10        uq oe ELbDot tj Je   0.500000   0.260833   0.239167   
+11        to renffInVt wo be   0.611111   0.275000   0.336111   
+12        tOcre ordHVt toubM   0.555556   0.301667   0.253889   
+13        tp beJoWTnYt wY be   0.611111   0.328056   0.283056   
+14        Io be orucdH to IM   0.611111   0.346111   0.265000   
+15        tp bewojDnVt toibe   0.666667   0.364444   0.302222   
+16        tP bekojDHot toibe   0.666667   0.379444   0.287222   
+17        tJ qekojbnot to oe   0.666667   0.392778   0.273889   
+18        tT be orundt soibe   0.722222   0.425278   0.296944   
+19        to beJorunpX to be   0.777778   0.454722   0.323056   
+20        tN be ormndi toibe   0.722222   0.476111   0.246111   
+21        tm be oryHpt to be   0.777778   0.492222   0.285556   
+22        tJ Ze orunpt to be   0.777778   0.509722   0.268056   
+23        to beuorynlt to be   0.833333   0.539722   0.293611   
+24        to beworynlt wo be   0.777778   0.562778   0.215000   
+25        tQ be ZrHnot to be   0.833333   0.558611   0.274722   
+26        to be orunptLto be   0.833333   0.561944   0.271389   
+27        qo be orunotLto be   0.833333   0.573889   0.259444   
+28        to be orunot toubD   0.833333   0.573056   0.260278   
+29        to be ofInot tq be   0.833333   0.588889   0.244444   
+30        tW be orZnot to bL   0.833333   0.601667   0.231667   
+31        to be ofunot to be   0.888889   0.624722   0.264167   
+32        tJ be orInot to be   0.888889   0.633611   0.255278   
+33        tJ be orunot to bD   0.833333   0.646667   0.186667   
+34        tT be orZnot to be   0.888889   0.671389   0.217500   
+35        tN be orunot to be   0.888889   0.671389   0.217500   
+36        tN be orTnot to be   0.888889   0.682500   0.206389   
+37        tN be orynot to be   0.888889   0.685278   0.203611   
+38        to be orTnot to be   0.944444   0.700278   0.244167   
+39        to be orTnot to be   0.944444   0.712222   0.232222   
+40        to be orynot to be   0.944444   0.716944   0.227500   
+41        to be orynot to be   0.944444   0.723333   0.221111   
+42        tT be orMnot to be   0.888889   0.738333   0.150556   
+43        to be or not tE be   0.944444   0.740000   0.204444   
+44        tT be or not to be   0.944444   0.742222   0.202222   
+45        tQ be or not to be   0.944444   0.745278   0.199167   
+46        to be ormnot to be   0.944444   0.749167   0.195278   
+47        to be orLnot to be   0.944444   0.758056   0.186389   
+48        to be orZnot to be   0.944444   0.767778   0.176667   
+49        to be ormnot to be   0.944444   0.765556   0.178889   
+50        to be orTnot to be   0.944444   0.762778   0.181667   
+51        to be orYnot to be   0.944444   0.759444   0.185000   
+52        to be orWnot to be   0.944444   0.757500   0.186944   
+53        to be orunot to be   0.944444   0.748333   0.196111   
+54        to be orZnot to be   0.944444   0.752778   0.191667   
+55        to be orunot to be   0.944444   0.752500   0.191944   
+56        to be or not to be   1.000000   0.761389   0.238611   
